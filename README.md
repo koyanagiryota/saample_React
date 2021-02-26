@@ -1,1 +1,1 @@
-# saample_React
+# sample_React
